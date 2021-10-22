@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Raccoon_ToDoList</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="to_do_tasks">Tarefas Pendentes</string>
+    <string name="completed_tasks">Tarefas Completadas</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
